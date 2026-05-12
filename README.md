@@ -1,4 +1,6 @@
-Welcome to the GitHub for the **Stretch 4** mobile manipulator by **Hello Robot**, as well as for the **Stretch 3** and older versions of the robot. Building on its predecessors, Stretch 4 is a calibrated, 9-DOF platform designed for commercial and industrial indoor environments. It features a unique telescoping arm, 360° hemispherical vision, and dual-processor compute architecture (Intel Core Ultra + NVIDIA Jetson Orin NX).
+Welcome to the GitHub for **Hello Robot**.
+
+Here you will find open-source code for the **Stretch 4** mobile manipulator as well as for the **Stretch 3** and older versions of the robot. 
 
 ---
 
