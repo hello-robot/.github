@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="stretch4.png" alt="Stretch 4 Mobile Manipulator" width="250"/>
+  <br>
+  <em> Hi, I am Stretch 4</em>
+</p>
+
 Welcome to the GitHub for **Hello Robot**.
 
 Here you will find open-source code for the **Stretch 4** mobile manipulator as well as for the **Stretch 3** and older versions of the robot. 
