@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="stretch4.png" alt="Stretch 4 Mobile Manipulator" width="250"/>
+  <img src="stretch4.png" alt="Stretch 4 Mobile Manipulator" width="400"/>
   <br>
-  <em> Hi, I am Stretch 4</em>
 </p>
 
 Welcome to the GitHub for **Hello Robot**.
