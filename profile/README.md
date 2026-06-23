@@ -36,6 +36,7 @@ The following table summarizes some of the key public repositories dedicated to 
 | [`stretch4_pyhesai_wrapper`](https://github.com/hello-robot/stretch4_pyhesai_wrapper) | Python wrapper for the Hesai JT128 3D hemispherical LiDARs. | C++ / Python |
 | [`stretch4_human_perception`](https://github.com/hello-robot/stretch4_human_perception) | Specialized tools to enable the robot to perceive and track humans. | Python |
 | [`stretch4_compliant_gripper`](https://github.com/hello-robot/stretch4_compliant_gripper) | Modeling and control code for the standard Stretch 4 compliant gripper. | Python |
+| [`stretch4_flying_gripper`](https://github.com/hello-robot/stretch4_flying_gripper) | Teleoperation tools and scripts for task-space control of Stretch 4's end effector. | Python |
 
 ---
 
