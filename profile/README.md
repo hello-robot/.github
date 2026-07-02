@@ -29,9 +29,13 @@ The following table summarizes some of the key public repositories dedicated to 
 | [`stretch4_body`](https://github.com/hello-robot/stretch4_body) | Core Python SDK to interact with the Stretch 4 hardware and low-level joints. | Python |
 | [`stretch4_ros2`](https://github.com/hello-robot/stretch4_ros2) | The primary ROS 2 driver and package suite for autonomous operation. | Python |
 | [`stretch4_urdf`](https://github.com/hello-robot/stretch4_urdf) | Unified Robot Description Format (URDF) files for the Stretch 4 mobile manipulator. | Python/XML |
+| [`stretch4_tray`](https://github.com/hello-robot/stretch4_tray) | Ubuntu system tray application for displaying battery level or launching Stretch tools | Python/Yaml |
+| [`stretch4_install`](https://github.com/hello-robot/stretch4_install) | Scripts to configure a fresh OS with Stretch 4's SDK | Bash |
 | [`stretch4_mujoco`](https://github.com/hello-robot/stretch4_mujoco) | Official simulation stack built on the MuJoCo physics engine. | Python |
 | [`stretch4_web_teleop`](https://github.com/hello-robot/stretch4_web_teleop) | Accessible, web-based interface for remote teleoperation. | TypeScript |
+| [`stretch4_kinematics`](https://github.com/hello-robot/stretch4_kinematics) | Kinematics and task-space control library for Stretch 4 | Python |
 | [`stretch4_grasping_demo`](https://github.com/hello-robot/stretch4_grasping_demo) | AI-powered demo utilizing VLMs and object tracking for visual servoing. | Python |
+| [`stretch4_hybrid_marker_demo`](https://github.com/hello-robot/stretch4_hybrid_marker_demo) | LiDAR-reflective material + visible light ArUco marker demo. | Python |
 | [`stretch4_rgbd`](https://github.com/hello-robot/stretch4_rgbd) | Methods to enhance and process RGB-D imagery from onboard cameras. | Python |
 | [`stretch4_pyhesai_wrapper`](https://github.com/hello-robot/stretch4_pyhesai_wrapper) | Python wrapper for the Hesai JT128 3D hemispherical LiDARs. | C++ / Python |
 | [`stretch4_human_perception`](https://github.com/hello-robot/stretch4_human_perception) | Specialized tools to enable the robot to perceive and track humans. | Python |
